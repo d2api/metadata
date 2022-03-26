@@ -1,0 +1,14 @@
+{
+  "name": "@d2api/metadata",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "type": "module",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bungie-api-ts": "^4.16.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
