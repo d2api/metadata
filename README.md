@@ -1,2 +1,1 @@
-# metadata
-d2 metadata
+`npm install d2api/metadata`
