@@ -50,17 +50,25 @@ export const lostSectorOrderS16 = [
     "Sepulcher",
     "Extraction", // day 11
 ];
+export const lostSectorOrderS17 = [
+    "K1CrewQuarters",
+    "K1Logistics",
+    "K1Revelation",
+    "K1Communion",
+    "TheConflux",
+    "Metamorphosis",
+    "Sepulcher",
+    "Extraction",
+    "ExcavationSiteXII",
+    "SkydockIV",
+    "TheQuarry", // day 11
+];
 export const lostSectorOrder = {
     13: lostSectorOrderS13,
     14: lostSectorOrderS14,
     15: lostSectorOrderS15,
     16: lostSectorOrderS16,
-};
-export const lostSectorLootOrder = {
-    13: lostSectorOrderS13,
-    14: lostSectorOrderS14,
-    15: lostSectorOrderS15,
-    16: lostSectorOrderS16,
+    17: lostSectorOrderS17,
 };
 const lootOrderS13 = [
     "gauntlets",
@@ -79,4 +87,5 @@ export const lootOrder = {
     14: lootOrderS14,
     15: lootOrderS14,
     16: lootOrderS14,
+    17: lootOrderS14,
 };

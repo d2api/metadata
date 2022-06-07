@@ -69,6 +69,11 @@ export const lostSectorMeta = {
         shields: [2 /* Arc */],
         enemies: [{ faction: "cabal", champions: ["barrier", "unstoppable"] }],
     },
+    SkydockIV: {
+        activityHash: { Legend: 55186263, Master: 55186256 },
+        shields: [4 /* Void */],
+        enemies: [{ faction: "cabal", champions: ["barrier", "unstoppable"] }],
+    },
     // dreaming city
     BayOfDrownedWishes: {
         activityHash: { Legend: 660710127, Master: 660710120 },

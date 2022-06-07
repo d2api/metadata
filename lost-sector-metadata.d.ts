@@ -5,7 +5,7 @@ declare type EnemyData = {
     champions: ChampionType[];
     faction: EnemyFaction;
 };
-export declare type LSName = "ConcealedVoid" | "Perdition" | "BunkerE15" | "ExodusGarden2A" | "VelesLabyrinth" | "K1CrewQuarters" | "K1Logistics" | "K1Communion" | "K1Revelation" | "TheEmptyTank" | "TheQuarry" | "ScavengersDen" | "ExcavationSiteXII" | "BayOfDrownedWishes" | "AphelionsRest" | "ChamberOfStarlight" | "TheConflux" | "TheRift" | "Metamorphosis" | "Sepulcher" | "Extraction";
+export declare type LSName = "ConcealedVoid" | "Perdition" | "BunkerE15" | "ExodusGarden2A" | "VelesLabyrinth" | "K1CrewQuarters" | "K1Logistics" | "K1Communion" | "K1Revelation" | "TheEmptyTank" | "TheQuarry" | "ScavengersDen" | "ExcavationSiteXII" | "SkydockIV" | "BayOfDrownedWishes" | "AphelionsRest" | "ChamberOfStarlight" | "TheConflux" | "TheRift" | "Metamorphosis" | "Sepulcher" | "Extraction";
 export declare type LSMeta = {
     activityHash: {
         Legend: number;
