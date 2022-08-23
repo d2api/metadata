@@ -63,12 +63,17 @@ export const lostSectorOrderS17 = [
     "SkydockIV",
     "TheQuarry", // day 11
 ];
+export const lostSectorOrderS18 = [
+    "ConcealedVoid",
+    null,
+];
 export const lostSectorOrder = {
     13: lostSectorOrderS13,
     14: lostSectorOrderS14,
     15: lostSectorOrderS15,
     16: lostSectorOrderS16,
     17: lostSectorOrderS17,
+    18: lostSectorOrderS18,
 };
 const lootOrderS13 = [
     "gauntlets",
@@ -88,4 +93,5 @@ export const lootOrder = {
     15: lootOrderS14,
     16: lootOrderS14,
     17: lootOrderS14,
+    18: lootOrderS14,
 };
