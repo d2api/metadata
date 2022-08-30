@@ -65,6 +65,12 @@ export const lostSectorOrderS17 = [
 ];
 export const lostSectorOrderS18 = [
     "ConcealedVoid",
+    "BunkerE15",
+    "TheConflux",
+    "TheRift",
+    "K1CrewQuarters",
+    "K1Logistics",
+    "K1Communion",
     null,
 ];
 export const lostSectorOrder = {

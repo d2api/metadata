@@ -2,7 +2,7 @@ export const lostSectorMeta = {
     // europa
     ConcealedVoid: {
         activityHash: { Legend: 912873277, Master: 912873274 },
-        shields: [3 /* DamageType.Thermal */, 4 /* DamageType.Void */],
+        shields: [2 /* DamageType.Arc */, 3 /* DamageType.Thermal */, 4 /* DamageType.Void */],
         enemies: [{ faction: "fallen", champions: ["barrier", "overload"] }],
     },
     Perdition: {
