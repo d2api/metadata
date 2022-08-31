@@ -71,6 +71,7 @@ export const lostSectorOrderS18 = [
     "K1CrewQuarters",
     "K1Logistics",
     "K1Communion",
+    "SkydockIV",
     null,
 ];
 export const lostSectorOrder = {
