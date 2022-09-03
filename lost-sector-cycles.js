@@ -74,8 +74,7 @@ export const lostSectorOrderS18 = [
     "SkydockIV",
     "ScavengersDen",
     "TheQuarry",
-    "ExcavationSiteXII",
-    null,
+    "ExcavationSiteXII", // day 11
 ];
 export const lostSectorOrder = {
     13: lostSectorOrderS13,

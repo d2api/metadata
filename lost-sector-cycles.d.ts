@@ -4,14 +4,14 @@ export declare const lostSectorOrderS14: LSName[];
 export declare const lostSectorOrderS15: LSName[];
 export declare const lostSectorOrderS16: LSName[];
 export declare const lostSectorOrderS17: LSName[];
-export declare const lostSectorOrderS18: (LSName | null)[];
+export declare const lostSectorOrderS18: LSName[];
 export declare const lostSectorOrder: {
     13: LSName[];
     14: LSName[];
     15: LSName[];
     16: LSName[];
     17: LSName[];
-    18: (LSName | null)[];
+    18: LSName[];
 };
 declare type LootSlot = "chestarmor" | "helmet" | "legarmor" | "gauntlets";
 export declare const lootOrder: {
