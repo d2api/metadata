@@ -66,8 +66,10 @@ export const lostSectorOrderS17 = [
 export const lostSectorOrderS18 = [
     "ConcealedVoid",
     "BunkerE15",
+    "Perdition",
     "TheConflux",
-    "TheRift",
+    // "TheRift", // day 4 but cancelled after first week
+    // "Perdition", // day 4 maybe, moving forward?
     "K1CrewQuarters",
     "K1Logistics",
     "K1Communion",
