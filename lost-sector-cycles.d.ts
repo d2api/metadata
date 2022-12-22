@@ -5,6 +5,7 @@ export declare const lostSectorOrderS15: LSName[];
 export declare const lostSectorOrderS16: LSName[];
 export declare const lostSectorOrderS17: LSName[];
 export declare const lostSectorOrderS18: LSName[];
+export declare const lostSectorOrderS19: LSName[];
 export declare const lostSectorOrder: {
     13: LSName[];
     14: LSName[];
@@ -12,6 +13,7 @@ export declare const lostSectorOrder: {
     16: LSName[];
     17: LSName[];
     18: LSName[];
+    19: LSName[];
 };
 declare type LootSlot = "chestarmor" | "helmet" | "legarmor" | "gauntlets";
 export declare const lootOrder: {
@@ -21,5 +23,6 @@ export declare const lootOrder: {
     16: LootSlot[];
     17: LootSlot[];
     18: LootSlot[];
+    19: LootSlot[];
 };
 export {};
